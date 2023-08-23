@@ -39,7 +39,7 @@ const Wrapper = styled.aside`
     background: transparent;
     border-color: transparent;
     font-size: 2rem;
-    color: var(--red-dark);
+    color: black;
     cursor: pointer;
   }
   .nav-links {
